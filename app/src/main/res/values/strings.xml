@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Metric Converter</string>
+    <string name="input_value_hint">Masukkan nilai</string>
+    <string name="result_label">Hasil:</string>
+    <string name="convert_button_text">Konversi</string>
+    <string name="length_button_text">Panjang</string>
+    <string name="mass_button_text">Massa</string>
+    <string name="temperature_button_text">Suhu</string>
+    <string name="empty_input_error">Masukkan nilai terlebih dahulu!</string>
+    <string name="invalid_number_error">Masukkan angka yang valid!</string>
+</resources>

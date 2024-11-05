@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="massButton" type="id" />
+    <item name="timeButton" type="id" />
+    <item name="electricCurrentButton" type="id" />
+    <item name="lightIntensityButton" type="id" />
+    <item name="amountButton" type="id" />
+</resources>

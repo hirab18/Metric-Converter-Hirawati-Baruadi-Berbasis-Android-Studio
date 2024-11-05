@@ -1,0 +1,20 @@
+<resources>
+    <string-array name="length_units">
+        <item>Meter</item>
+        <item>Sentimeter</item>
+        <item>Milimeter</item>
+        <item>Kilometer</item>
+    </string-array>
+
+    <string-array name="mass_units">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Miligram</item>
+        <item>Ton</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
